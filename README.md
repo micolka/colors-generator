@@ -11,7 +11,7 @@ npm install
 ```sh
 npm run dev
 ```
-Use space to regenerate colors
+Use `space` to regenerate colors
 ### Compile and Minify for Production
 
 ```sh
